@@ -18,6 +18,3 @@
 ## 使用方式
 将 `SKILL.md` 完整提供给Agent。
 内部会自动引用同仓库内 references 目录下的映射文档，不要改动目录层级。
-
-## License
-MIT
