@@ -1,4 +1,4 @@
-# Windows‑shell‑token‑optimize‑skill
+# windows-shell-token-saver
 
 一套面向AI Agent的Windows Shell执行规则集。
 定义Shell路由选择逻辑、环境初始化约束、错误处理、版本差异、命令映射表、执行前检查清单与反模式。
