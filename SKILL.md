@@ -3,8 +3,6 @@ name: windows-shell-token-saver
 description: 在 Windows 终端（PowerShell 5.1/7、cmd、Git Bash、WSL）执行命令时降低 token 消耗。提供 shell 路由决策、命令等价映射、CLI 消噪参数、UTF-8 与编码处理、PS 版本差异与分场景错误处理。当 agent 需要在 Windows 上跑终端命令、输出冗长、出现中文乱码、需要反复探测或 shell 选择不定时使用。
 license: MIT
 version: 0.2.0
-metadata:
-  title: Windows Shell 省 Token 妙招
 ---
 
 
