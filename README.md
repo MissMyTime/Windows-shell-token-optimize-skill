@@ -16,5 +16,9 @@
 - WSL
 
 ## 使用方式
-将 `SKILL.md` 完整提供给Agent。
-内部会自动引用同仓库内 references 目录下的映射文档，不要改动目录层级。
+
+### 安装
+
+把整个仓库放进 skills 目录，**目录名必须等于 frontmatter 里的 `name`**，且 `references/` 要跟着一起放：
+
+
